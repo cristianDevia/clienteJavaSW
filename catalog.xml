@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.16.3:7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort?WSDL" uri="xml-resources/web-service-references/ServicioUniversidadSWPort/wsdl/192.168.16.3_7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort.wsdl"/>
+    <system systemId="http://192.168.16.3:7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort?xsd=1" uri="xml-resources/web-service-references/ServicioUniversidadSWPort/wsdl/192.168.16.3_7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort.xsd_1.xsd"/>
+    <system systemId="http://192.168.16.4:7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort?WSDL" uri="xml-resources/web-service-references/ServicioUniversidadSWPort_2/wsdl/192.168.16.4_7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort.wsdl"/>
+    <system systemId="http://192.168.16.4:7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort?xsd=1" uri="xml-resources/web-service-references/ServicioUniversidadSWPort_2/wsdl/192.168.16.4_7101/AplicacionServidorJava-ProyectoServidorJavaSW-context-root/ServicioUniversidadSWPort.xsd_1.xsd"/>
+</catalog>
